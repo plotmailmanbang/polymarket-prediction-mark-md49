@@ -1,4 +1,4 @@
-# 
+# Get the ultimate Polymarket trading-bot with Polymarket smart Trading Bot: volatility-detection & high-frequency-trading. Featuring volatility-detection and
 
 
 
